@@ -1,10 +1,10 @@
-# Praktikum Mata Kuliah Wajib Berpikir Komputasional ITB (STEI-K)
----
-## 🙋‍♂️ Program Dibuat Oleh:
-   - **Nama:** Riantama Putra
-   - **NIM TPB/Jurusan:** 19624156/18224061
-   - **Jurusan:** Sistem dan Teknologi Informasi
-   - **Angkatan:** 2024
+# 💻 Praktikum Berpikir Komputasional ITB
+
+## 👤 Tentang Pembuat
+- **Nama:** Riantama Putra  
+- **NIM TPB:** 19624156  
+- **Jurusan:** STEI-K
+- **Angkatan:** 2024  
 
 ---
 
