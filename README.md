@@ -3,7 +3,7 @@
 ## 👤 Tentang Pembuat
 - **Nama:** Riantama Putra  
 - **NIM TPB:** 19624156  
-- **Jurusan:** STEI-K
+- **Fakultas:** STEI-K
 - **Angkatan:** 2024  
 
 ---
